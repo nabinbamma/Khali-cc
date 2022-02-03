@@ -1,0 +1,11 @@
+How to partition hard disk
+
+storage device/website
+1> pcloud
+2> google drive 15 gb
+3> media file 10 gb
+4>drop box 2 gb
+5> mega file 50 gb
+6> digoo 100gb
+7> box 10gb
+

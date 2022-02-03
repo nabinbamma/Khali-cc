@@ -1,0 +1,16 @@
+1> copy all item and move cursor and paste
+2> select clipboard and chose move then chose required row and paste all
+3> select certain data for do you want to operation like chart , total, average calculation and many more press CTRL + F1
+		and you can modify as well make your own design
+4>for finding file path location
+ 	type =cell("filename") 
+	kasaari vayo vanera formula show garna lai press CTRL + ~ {carrot button}
+	also you can do your required auto option are displayed in screen
+	like =cell("type what do you want tto do ?")
+5> table making 
+	choose cell row and column as your need and boarder all 
+	and merge and center as your need
+6> for fit row size
+	select all content and press double click on corner side.
+7> for Serial no :
+	just type 1 2 and select then press plus sign and pull bellow down

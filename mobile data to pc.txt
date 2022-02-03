@@ -1,0 +1,12 @@
+step1> Go to mobile setting
+
+step2> open hotsport and Tethering
+
+step3> open USB tethering
+
+step4> connect USB with Pc
+
+step5> open mobile data
+
+
+Copyright nabin bamma 2020 
