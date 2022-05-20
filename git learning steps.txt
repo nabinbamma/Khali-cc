@@ -1,10 +1,11 @@
 git start git bash 
 //git --help
 
-type : git init
+type : 
+1> git init
 
 create folder and file then
-git status
+2> git status
 
 then upload file in git by
 git add filename.txt
@@ -19,12 +20,12 @@ git log --oneline // view in oneline
 // To add File To Staging Area
 git filename   // for single file
 git add filename.txt filename2.txt filename.txt /// mutiple file add
-git add .   //for All file
+3> git add .   //for All file
 git diff --staged   // difference lai speration garxa.
 
 
 To commit  the changes
-git commit -m "message" // message means what type you want to send
+4> git commit -m "message" // message means what type you want to send
 
 /// for config
 git config --global user.name
@@ -33,9 +34,9 @@ user: Bamma Nabin
 
 
 // copy he reporiditory and paste to git bash
-
+5> paste url
 //load to git hub code
-git push origin master
+6> git push origin master
 
 
 // to copy/clone github repository to computeer file
